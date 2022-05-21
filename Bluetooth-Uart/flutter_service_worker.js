@@ -3,7 +3,27 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  ".git/config": "b1922e48613e819b00072aa332a8f453",
+".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
+".git/HEAD": "cf7dd3ce51958c5f13fece957cc417fb",
+".git/hooks/applypatch-msg.sample": "ce562e08d8098926a3862fc6e7905199",
+".git/hooks/commit-msg.sample": "579a3c1e12a1e74a98169175fb913012",
+".git/hooks/fsmonitor-watchman.sample": "ea587b0fae70333bce92257152996e70",
+".git/hooks/post-update.sample": "2b7ea5cee3c49ff53d41e00785eb974c",
+".git/hooks/pre-applypatch.sample": "054f9ffb8bfe04a599751cc757226dda",
+".git/hooks/pre-commit.sample": "305eadbbcd6f6d2567e033ad12aabbc4",
+".git/hooks/pre-merge-commit.sample": "39cb268e2a85d436b9eb6f47614c3cbc",
+".git/hooks/pre-push.sample": "2c642152299a94e05ea26eae11993b13",
+".git/hooks/pre-rebase.sample": "56e45f2bcbc8226d2b4200f7c46371bf",
+".git/hooks/pre-receive.sample": "2ad18ec82c20af7b5926ed9cea6aeedd",
+".git/hooks/prepare-commit-msg.sample": "2b5c047bdb474555e1787db32b2d2fc5",
+".git/hooks/push-to-checkout.sample": "c7ab00c7784efeadad3ae9b228d4b4db",
+".git/hooks/update.sample": "647ae13c682f7827c22f5fc08a03674e",
+".git/index": "caf699499078beb57014ac1764ce032d",
+".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
+".git/objects/4e/40b891462ac397ce6974488124b9a2ca07da28": "fb84a230e3f17162bd48a9f1f03b9d76",
+".git/objects/66/88eec3d731274057bc0a5bbcd4370445ca8188": "a91652ed8789a88e89925bbb4d96dc0b",
+"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "2d7236aca695ba4cd213a3478e55d740",
@@ -18,10 +38,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c8110ef470a0d49b70757c1c8b325f9f",
-"/": "c8110ef470a0d49b70757c1c8b325f9f",
+"index.html": "47b50a5676e69998c6d47179098432ce",
+"/": "47b50a5676e69998c6d47179098432ce",
 "main.dart.js": "02b75a7c0e9d5052deb277f7578211e1",
 "manifest.json": "a6b12ac1c8b94b0d458dbfdaf21d03b7",
+"README.md": "56b546d8e2121c44573cc4e71431224e",
 "version.json": "5f28b101a23cda222084598333ffdc2e"
 };
 
