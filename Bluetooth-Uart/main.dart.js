@@ -37191,7 +37191,7 @@ p.toString}o=new A.dk(new A.aU(q,q,q,0),A.la(A.ci(l,B.vU,!0,l,!1,l,l,l,l,s==null
 h=24*r
 r=j.f
 if(r==null){r=i.gn3()
-r.toString}n=new A.dk(new A.aU(h,20,h,24),A.la(A.ci(l,B.Kd,!0,l,!1,l,l,l,l,l,l,l,l,l,l,l,l,l),l,B.b8,!0,r,l,l,B.ad),l)
+r.toString}n=new A.dk(new A.aU(h,20,h,24),A.la(A.ci(l,B.K9,!0,l,!1,l,l,l,l,l,l,l,l,l,l,l,l,l),l,B.b8,!0,r,l,l,B.ad),l)
 h=A.a([],t.E)
 h.push(o)
 h.push(new A.tf(1,B.yH,n,l))
@@ -37396,7 +37396,7 @@ this.kx()}}
 A.BE.prototype={
 L(a,b){var s=null,r=A.aj(b),q=b.J(t.w).f.f.b,p=A.akq(b,s),o=B.yz.F(0,new A.aU(0,q,0,0)),n=r.R8.y
 n.toString
-n=A.la(A.ab0(B.Ka,b,!1,!1,!1,!0),s,B.b8,!0,n,s,s,B.ad)
+n=A.la(A.ab0(B.Kb,b,!1,!1,!1,!0),s,B.b8,!0,n,s,s,B.ad)
 return A.hh(s,new A.qR(n,o,B.uS,s,B.bb,B.lx,s,s),B.u,s,s,new A.dF(s,s,new A.cC(B.t,B.t,p,B.t),s,s,s,B.aI),s,q+161,B.yw,s,s,s,s)}}
 A.t0.prototype={
 gv(a){var s=this
@@ -58094,7 +58094,7 @@ k.a.toString
 s=A.an_("Web-based Bluetooth Uart",j,j)
 r=t.E
 q=A.a([A.a6M(j,B.z6,j,new A.a2v(b),j)],r)
-p=A.a([B.yl,A.aaP(new A.a2w(b),B.Kb),A.aaP(new A.a2x(b),B.Kc)],r)
+p=A.a([B.yl,A.aaP(new A.a2w(b),B.Kc),A.aaP(new A.a2x(b),B.Kd)],r)
 o=A.aK([null,0],t.LO,t.S)
 n=k.f
 m=k.gY0()
@@ -60541,9 +60541,9 @@ B.kp=A.mq.prototype
 B.aG=A.mr.prototype
 B.Mx=new A.zW(0,"unknown")
 B.a2=new A.d2(0,0)
-B.K9=new A.hV("About",null,null,null,null)
-B.vU=new A.rr(B.a2,null,null,B.K9,null)
-B.Kd=new A.hV(' "Web-based Bluetooth Uart" Copyright (C) 2022-2022 Smartpanle LLC. It currently supports Renesas Bluetooth LE module. If you found bugs or have any proposal, please contact smartpanel2005@gmail.com with title "Bluetooth Uart", You can always use this link to run it from any web broswer: www.google.com,  Thanks!',null,null,null,null)
+B.Ka=new A.hV("About",null,null,null,null)
+B.vU=new A.rr(B.a2,null,null,B.Ka,null)
+B.K9=new A.hV(' "Web-based Bluetooth Uart" Copyright (C) 2022-2022 Smartpanel LLC. It currently supports Renesas Bluetooth LE module. If you found bugs or have any proposal, please contact smartpanel2005@gmail.com with title "Bluetooth Uart", You can always use this link to run it from any web broswer: https://smartpanel2005.github.io/Bluetooth-Uart/,  Thanks!',null,null,null,null)
 B.MG=new A.aU(24,20,24,24)
 B.aa=new A.aU(0,0,0,0)
 B.yB=new A.aU(40,24,40,24)
@@ -61080,7 +61080,7 @@ B.lv=new A.BD(0,"start")
 B.yz=new A.aU(16,16,16,8)
 B.yw=new A.aU(0,0,0,8)
 B.lx=new A.aT(25e4)
-B.Ka=new A.hV("Drawer Header",null,null,null,null)
+B.Kb=new A.hV("Drawer Header",null,null,null,null)
 B.yl=new A.BE(null)
 B.ym=new A.t0(null,null,null,null,null)
 B.v=new A.aT(0)
@@ -62783,8 +62783,8 @@ B.J3=new A.k(!0,B.k,null,".SF UI Text",null,null,null,null,null,null,null,null,n
 B.H9=new A.k(!0,B.k,null,".SF UI Text",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"whiteCupertino labelSmall",null,null,null)
 B.K8=new A.cJ(B.Gt,B.Iw,B.IO,B.JD,B.I0,B.GT,B.IF,B.I3,B.Id,B.Je,B.H3,B.JK,B.HU,B.J3,B.H9)
 B.u3=new A.wv(1,"longestLine")
-B.Kb=new A.hV("Item 1",null,null,null,null)
-B.Kc=new A.hV("Item 2",null,null,null,null)
+B.Kc=new A.hV("Item 1",null,null,null,null)
+B.Kd=new A.hV("Item 2",null,null,null,null)
 B.MR=new A.G9(0,"system")
 B.Ke=new A.ww(null)
 B.ed=new A.wx(0,"clamp")
